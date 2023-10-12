@@ -1,0 +1,21 @@
+{
+  "name": "postme",
+  "version": "1.0.0",
+  "description": "Mi primer aplicación web progresiva yazmin saavedra zarate",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server -c -1."
+  },
+  "keywords": [
+    "pwa",
+    "postme",
+    "utcv"
+  ],
+  "author": "yazminzarate2402@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "-": "^0.0.1",
+    "D": "^1.0.0",
+    "http-server": "^14.1.1"
+  }
+}
